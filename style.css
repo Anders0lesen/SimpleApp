@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    text-align: center;
+    margin: 20px;
+}
+
+textarea {
+    width: 100%;
+}
